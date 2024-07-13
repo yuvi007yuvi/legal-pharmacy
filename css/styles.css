@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+.carousel-image {
+    height: 400px;
+    object-fit:fill;
+}
+.carousel-caption {
+    color: black;
+    background-color: #f7f7f77e;
+}
+
+.testimonial {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.testimonial p {
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+.testimonial footer {
+    margin-top: 10px;
+    font-size: 1rem;
+}
